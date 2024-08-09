@@ -17,6 +17,14 @@
       flex-direction: column-reverse;
      }
      .text{
-   padding: 20px;
+      padding: 20px;
      }
+     main{
+      width: 100%;
+     }
+     .project-container{
+      grid-template-columns: repeat(1, 1fr);
+      width: 100%;
+     }
+     
 }
