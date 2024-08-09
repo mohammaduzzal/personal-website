@@ -1,0 +1,22 @@
+@media screen and (max-width:576px) {
+    header{
+        width: 100%;
+    }
+      /* .nav-bar{
+        width: 100%;
+     } 
+     */
+     .parent{
+      width: 100%;
+     }
+     .child{
+      flex-direction: column;
+     }
+
+     .parent > :nth-child(2){
+      flex-direction: column-reverse;
+     }
+     .text{
+   padding: 20px;
+     }
+}
