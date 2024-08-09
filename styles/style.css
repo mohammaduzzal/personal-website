@@ -86,6 +86,7 @@
     /* border: 1px solid  green; */
     width: 100%;
     padding: 20px;
+   
   }
   .text{
     /* border: 1px solid yellow; */
@@ -100,6 +101,10 @@
     width: 1060px;
     margin: 0 auto;
     border: 1px solid tomato;
+  }
+  .project{
+    margin-top: 50px;
+    margin-bottom: 200px;
   }
   .project-title{
     font-size: 3rem;
@@ -133,6 +138,32 @@
     font-weight: 400;
     color: rgba(108, 108, 108, 1);
     text-align: center;
+  }
+  .two{
+    width: 600px;
+    border: 1px solid tomato;
+    margin: 0 auto;
+    background:linear-gradient(0deg, rgba(66, 37, 182, 1),rgba(93, 105, 233, 1));
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 50px;
+  }
+  .Work{
+    font-size: 4rem;
+    font-weight: 700;
+    color: rgba(255, 255, 255, 1);
+    padding: 30px;
+  }
+  .work-btn{
+    border: none;
+    border-radius: 5px;
+    background:linear-gradient(0deg, rgba(255, 128, 99, 1),rgba(244, 96, 96, 1));
+    padding: 15px 25px;
+    font-size: 1rem;
+    font-weight: 500;
+    color: rgba(255, 255, 255, 1);
+    margin-top: 40px;
+    
   }
 
   /* main css ends */
