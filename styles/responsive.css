@@ -37,5 +37,19 @@
       margin-bottom: 10px;
 
      }
+     footer{
+      width: 100%;
+     }
+     .icons{
+      width: 100%;
+      display: block;
+      text-align: center;
+
+     }
+     .icons img{
+      width: 10%;
+      
+      
+     }
      
 }
